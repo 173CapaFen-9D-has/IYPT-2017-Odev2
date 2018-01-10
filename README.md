@@ -1,4 +1,11 @@
-# Özet (Abstract)
+
+Sınıf |       Ad Soyad         |Numara
+-------|------------------------|-------
+ 9-D   | Helin Bingöl           | 609
+ 9-D   | Ahmet Selim Alpkirişçi | 565
+ 9-D   | Kevser Sıla Aykan      | 599
+ 
+ # Özet (Abstract)
 Bakır telimizi bir tünel gibi sarmal hale getireceğiz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştireceğiz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen değişkenleri(bkz.) araştıracağız.
 
 ### Değişkenler (Variables)
@@ -37,8 +44,6 @@ Bakır tel resimdeki gibi dairesel olarak sardık. Kalem pilin iki ucuna birer m
 
 # Bulgular (Results)
 Tüm uğraşlarımıza rağmen deneyimiz başarısız oldu. Sebebinin bakır telde olduğunu düşünüyoruz ve bir sonraki deneyimizde farklı sıklıkta dairesel halkalar, boy ve kalınlıkta bakır tel kullanacağız.
-
-# Sonuç ve Tartışma (Conclusion and Discussion) 
 
 
 
