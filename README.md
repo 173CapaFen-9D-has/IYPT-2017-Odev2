@@ -1,25 +1,25 @@
 # Özet (Abstract)
 Bakır telimizi bir tünel gibi sarmal hale getireceğiz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştireceğiz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen değişkenleri(bkz.) araştıracağız.
 
-### Değişkenler (Variables)
+## Değişkenler (Variables)
 Bakır tellerin uzunluğu/kalınlığı<br>
 Pillerin boyutu<br>
 Mıknatısların gücü
 # Giriş (Introduction)
-### Kavramlar (Terms)
-##### Elektromanyetizma (Electromagnetizm)
+## Kavramlar (Terms)
+### Elektromanyetizma (Electromagnetizm)
 Elektromanyetizma, elektrikle yüklü parçacıklar arasındaki etkileşime neden olan fiziksel kuvvet'tir. Yani elektriğin olduğu her yerde zaten elektromanyetizmayı bilmemiz gerekmektedir.
-##### Eddy Akımı (Eddy Current)
+### Eddy Akımı (Eddy Current)
 Eddy akımı, manyetik alan değiştiğinde iletkenlerin içerisinde oluşan çembersel(bir çerçevenin içerisinde başladığı noktaya dönen) elektrik akımıdır. Bu akım anlayacağınız üzere bizim pilimiz ve bakır telimiz ile oluşturduğumuz akımla aynıdır.
-##### Homopolar Motor (Homopolar Motor)
+### Homopolar Motor (Homopolar Motor)
 Elektrik akımı geçtiği zaman etrafında bir manyetik alan oluşturur. Bu manyetik alan mıknatısın manyetik alanıyla karşılıklı etkileşime geçmesiyle oluşan hareketi kullanan motorlara verilen genel isim.
-### Amaç (Purpose)
+## Amaç (Purpose)
 Araştırmamızın en temel amacı; elektromanyetizma kanunları kullanılarak elektriği harekete dönüştürme yöntemleri mevcuttur, peki bu "Elektromanyetik Tren" bu yöntemlerden hangisini kullanmakta olduğunu belirlemektir. Birazdan bahsedeğim hipotezleri denemek için kullanılabilir.
-### Hipotezler (Hypothesis)
+## Hipotezler (Hypothesis)
 Tanımlarda bahsettiğimiz homopolar motorlardaki sisteme bizimki çok benziyor. Pildeki elektrik akımı bakır tele temas ediyor o halde bakır telden elektrik akımı geçiyor, güçlü bir mıknatısımız da var. Bundan çıkarabileceğimiz iki hipotez var:<br>
 1. Magnet ile pilin birbirine temas halinde olmasının bir anlamı yok, pilin tek amacı bakır tele elektrik iletmek olabilir bunu da magnetle pili bağlamadan da mıknatıs tren gibi ilerler.<br>
 2. Bu sistem homopolar motordur.
-### Kaynakça (References)
+## Kaynakça (References)
 Eddy akımı, http://www.wikizero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRWRkeV9ha8SxbcSx
 Homopolar motor, http://www.wikizero.net/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvSG9tb3BvbGFyX21vdG9y
 Elektromanyetizma, http://www.wikizero.net/index.php?q=aHR0cHM6Ly90ci53aWtpcGVkaWEub3JnL3dpa2kvRWxla3Ryb21hbnlldGl6bWE
