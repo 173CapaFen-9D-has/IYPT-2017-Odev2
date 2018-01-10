@@ -5,6 +5,7 @@ Sınıf |       Ad Soyad         |Numara
  9-D   | Ahmet Selim Alpkirişçi | 565
  9-D   | Kevser Sıla Aykan      | 599
  
+ # MAGNETİK TREN (MAGNETIC TRAIN)
  # Özet (Abstract)
 Bakır telimizi bir tünel gibi sarmal hale getireceğiz. Daha sonra kalem pilimizin her iki kutbuna da düğme mıknatıslarımızı yerleştireceğiz. Ardından pilimizi sarmal telimizin bir ucundan içeri bıraktığımızda oluşan hareketin nedenini ve hareketi etkileyen değişkenleri(bkz.) araştıracağız.
 
