@@ -24,7 +24,7 @@ Eddy akımı, manyetik alan değiştiğinde iletkenlerin içerisinde oluşan çe
 ### Homopolar Motor (Homopolar Motor)
 Elektrik akımı geçtiği zaman etrafında bir manyetik alan oluşturur. Bu manyetik alan mıknatısın manyetik alanıyla karşılıklı etkileşime geçmesiyle oluşan hareketi kullanan motorlara verilen genel isim.
 ## Amaç (Purpose)
-Araştırmamızın en temel amacı; elektromanyetizma kanunları kullanılarak elektriği harekete dönüştürme yöntemleri mevcuttur, peki bu "Elektromanyetik Tren" bu yöntemlerden hangisini kullanmakta olduğunu belirlemektir. Birazdan bahsedeğim hipotezleri denemek için kullanılabilir.
+Araştırmamızın en temel amacı; elektromanyetizma kanunları kullanılarak elektriği harekete dönüştürme yöntemleri mevcuttur, peki bu "Elektromanyetik Tren" bu yöntemlerden hangisini kullanmakta olduğunu belirlemektir. Bir de birazdan bahsedeğim hipotezleri denemek için kullanılabilir.
 ## Hipotezler (Hypothesis)
 Tanımlarda bahsettiğimiz homopolar motorlardaki sisteme bizimki çok benziyor. Pildeki elektrik akımı bakır tele temas ediyor o halde bakır telden elektrik akımı geçiyor, güçlü bir mıknatısımız da var. Bundan çıkarabileceğimiz iki hipotez var:<br><br>
 1. Magnet ile pilin birbirine temas halinde olmasının bir anlamı yok, pilin tek amacı bakır tele elektrik iletmek olabilir bunu da magnetle pili bağlamadan da mıknatıs tren gibi ilerler.<br><br>
